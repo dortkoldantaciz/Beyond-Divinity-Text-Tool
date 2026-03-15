@@ -103,4 +103,4 @@ BD_Translation_Tool/
 ## Credits
 
 - Format research based on [Divine Divinity Tools](https://www.artembutusov.com/sormy.nm.ru/dd-lk.htm) by Sormy
-- Modified for Beyond Divinity and improvements by dortkoldantaciz
+- Modified for Beyond Divinity with improvements by dortkoldantaciz
